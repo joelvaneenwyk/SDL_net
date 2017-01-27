@@ -201,12 +201,6 @@
       <Project>{8ab3504f-5e58-4910-afe8-7a1e595ac3f4}</Project>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
-    <ProjectReference Include="..\SDL_net_VS2008.vcxproj">
-      <Project>{8ab3504f-5e58-4910-afe8-7a1e595ac3f4}</Project>
-      <Private>false</Private>
-      <CopyLocalSatelliteAssemblies>false</CopyLocalSatelliteAssemblies>
-      <ReferenceOutputAssembly>true</ReferenceOutputAssembly>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\showinterfaces.c" />
